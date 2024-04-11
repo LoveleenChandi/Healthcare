@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "675957500538",
+    "firebase_url": "https://smartcartbuddy-default-rtdb.firebaseio.com",
+    "project_id": "smartcartbuddy",
+    "storage_bucket": "smartcartbuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675957500538:android:4ea0f585d1ae81db05a9c3",
+        "android_client_info": {
+          "package_name": "com.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqRFlZv5WCoI2rE6vaYkAuYoijZYYwrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675957500538:android:cdd31f1294f9e41905a9c3",
+        "android_client_info": {
+          "package_name": "com.smartcartbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqRFlZv5WCoI2rE6vaYkAuYoijZYYwrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675957500538:android:0699fbd45941bb8505a9c3",
+        "android_client_info": {
+          "package_name": "com.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqRFlZv5WCoI2rE6vaYkAuYoijZYYwrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
